@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: arial;
+    background: linear-gradient(gold 50%,yellow 100%);
+    font-weight: bolder;
+}
+html {
+    scroll-behavior: smooth;
+}
+
